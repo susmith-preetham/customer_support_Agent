@@ -3,3 +3,5 @@
 This repository contains a Customer support AI Agent
 <br>
 Further implemetation is in progress, will update eventually.
+<br>
+Author - Susmith Preetham
